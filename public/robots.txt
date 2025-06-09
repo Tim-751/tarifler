@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://tarifler.etkin.xyz/sitemap.xml

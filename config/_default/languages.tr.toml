@@ -4,6 +4,7 @@ languageDirection = "ltr"
 weight = 1
 
 title = "Tim Tarifler"
+recent_articles = "Son Eklenenler"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 [params]
