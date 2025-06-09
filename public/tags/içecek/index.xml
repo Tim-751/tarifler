@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>İçecek on Tim Tarifler</title>
+    <link>https://tarifler.etkin.xyz/tags/i%C3%A7ecek/</link>
+    <description>Recent content in İçecek on Tim Tarifler</description>
+    <generator>Hugo</generator>
+    <language>tr</language>
+    <lastBuildDate>Sun, 16 Jan 2022 06:19:00 -0800</lastBuildDate>
+    <atom:link href="https://tarifler.etkin.xyz/tags/i%C3%A7ecek/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Salep (Sahlep değil)</title>
+      <link>https://tarifler.etkin.xyz/posts/salep/</link>
+      <pubDate>Sun, 16 Jan 2022 06:19:00 -0800</pubDate>
+      <guid>https://tarifler.etkin.xyz/posts/salep/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sıcak Çikolata</title>
+      <link>https://tarifler.etkin.xyz/posts/sicak-cikolata/</link>
+      <pubDate>Thu, 17 Dec 2020 12:26:00 -0800</pubDate>
+      <guid>https://tarifler.etkin.xyz/posts/sicak-cikolata/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cold Brew - Soğuk Kahve</title>
+      <link>https://tarifler.etkin.xyz/posts/cold-brew/</link>
+      <pubDate>Tue, 28 Apr 2020 04:00:00 -0700</pubDate>
+      <guid>https://tarifler.etkin.xyz/posts/cold-brew/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sıcak Şarap - Elma ve Limon</title>
+      <link>https://tarifler.etkin.xyz/posts/sicak-sarap-elma-limon/</link>
+      <pubDate>Fri, 13 Dec 2019 05:38:00 -0800</pubDate>
+      <guid>https://tarifler.etkin.xyz/posts/sicak-sarap-elma-limon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sıcak Şarap - Portakal ve Karanfil</title>
+      <link>https://tarifler.etkin.xyz/posts/sicak-sarap-portakal-karanfil/</link>
+      <pubDate>Sat, 07 Sep 2019 02:03:00 -0700</pubDate>
+      <guid>https://tarifler.etkin.xyz/posts/sicak-sarap-portakal-karanfil/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hafif Çikolatalı Süt v1</title>
+      <link>https://tarifler.etkin.xyz/posts/hafif-cikolatali-sut/</link>
+      <pubDate>Wed, 30 May 2018 02:12:00 -0700</pubDate>
+      <guid>https://tarifler.etkin.xyz/posts/hafif-cikolatali-sut/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Köfte on Tim Tarifler</title>
+    <link>https://tarifler.etkin.xyz/tags/k%C3%B6fte/</link>
+    <description>Recent content in Köfte on Tim Tarifler</description>
+    <generator>Hugo</generator>
+    <language>tr</language>
+    <lastBuildDate>Sun, 10 Feb 2019 07:44:00 -0800</lastBuildDate>
+    <atom:link href="https://tarifler.etkin.xyz/tags/k%C3%B6fte/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>İçli Köfte (Haşlama)</title>
+      <link>https://tarifler.etkin.xyz/posts/haslama-icli-kofte/</link>
+      <pubDate>Sun, 10 Feb 2019 07:44:00 -0800</pubDate>
+      <guid>https://tarifler.etkin.xyz/posts/haslama-icli-kofte/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>İnegöl Köfte</title>
+      <link>https://tarifler.etkin.xyz/posts/inegol-kofte/</link>
+      <pubDate>Fri, 08 Feb 2019 13:43:00 -0800</pubDate>
+      <guid>https://tarifler.etkin.xyz/posts/inegol-kofte/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ev Köftesi</title>
+      <link>https://tarifler.etkin.xyz/posts/ev-koftesi/</link>
+      <pubDate>Fri, 14 Sep 2018 12:05:00 -0700</pubDate>
+      <guid>https://tarifler.etkin.xyz/posts/ev-koftesi/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
