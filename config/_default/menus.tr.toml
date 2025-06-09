@@ -15,10 +15,10 @@
   pageRef = "posts"
   weight = 10
 
-[[main]]
-  name = "Kategoriler"
-  pageRef = "categories"
-  weight = 20
+#[[main]]
+#  name = "Kategoriler"
+#  pageRef = "categories"
+#  weight = 20
 
 [[main]]
   name = "Etiketler"
