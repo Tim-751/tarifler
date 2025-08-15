@@ -15,8 +15,8 @@ tags: [Meze, Atıştırmalık]
 - 1 tk. pul biber
 - 0,5 tk. toz karabiber
 - 200 g(250 ml) kırmızı mercimek
-- 750 ml kaynar su
-- 200 g(300 ml) ince bulgur
+- 700 ml kaynar su
+- 150 g(220 ml) ince bulgur
 - 4-5 adet taze soğan, ince halkalara doğranmış
 
 ### Tarifi
@@ -29,7 +29,3 @@ tags: [Meze, Atıştırmalık]
 6. Rahat ellenebilecek kadar soğuduktan sonra karışım biraz kuru görünmeli, ama elde sıkıştırınca şeklini korumalı ve sıkışmış haldeyken elle ikiye bölünce dağılmamalı. Fazla kuruysa bu noktada biraz su ilave edilebilir.
 7. Taze soğanları da içine karıştırıp avuç içinde sıkarak köfteleri şekillendir.
 8. Bütün marul yaprakları ve limon dilimleriyle oda sıcaklığında veya soğuk servis et.
-
-### Notlar
-
-- Daha az bulgurla dene
