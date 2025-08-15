@@ -28,3 +28,4 @@ tags: [Hamur İşi]
 ### Notlar
 
 - Kaynak: https://web.archive.org/web/20250701200143/https://www.unicornsinthekitchen.com/tahini-cookies-recipe/
+- Orijinal tarifte 30-40 gram dövülmüş ceviz de var, ben denemedim ama iyi olabilir.
