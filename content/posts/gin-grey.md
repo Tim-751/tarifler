@@ -13,7 +13,7 @@ tags: [Kokteyl]
 - 20 ml limon suyu
 - 10 ml şeker şurubu
 
-  1.4 litre için
+1.4 litre için
 
 - 700 ml cin
 - 5 poşet earl grey çay
