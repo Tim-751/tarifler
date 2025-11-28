@@ -13,7 +13,7 @@ tags: [Kokteyl]
 - 20 ml limon suyu
 - 10 ml şeker şurubu
 
-1.4 litre için
+  1.4 litre için
 
 - 700 ml cin
 - 5 poşet earl grey çay
@@ -26,3 +26,7 @@ tags: [Kokteyl]
 1. Poşet çayı oda sıcaklığındaki cinde rengi ve tadı geçene kadar (yaklaşık 5 dk) demle.
 2. Limon suyu ve şeker ekleyip kaşıkla karıştır, servis et
 3. Büyük miktarda yapmak için çayı cinde 20-30 dk beklet, o sırada suyu kaynatıp şekeri içinde erit, bütün malzemeleri karıştırıp buzdolabında soğut.
+
+### Notlar
+
+- Bol miktarda yaparken limon suyunun çoğu hazır olabilir, ama 460 ml içinde en az 60 ml (~1 limon) taze limon suyu olsa iyi olur.
